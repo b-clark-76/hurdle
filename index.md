@@ -1,4 +1,3 @@
-# _Barrett Clark_
 
 ## Welcome to GitHub Pages
 
