@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+    <title>Our Funky HTML Page</title>
+    
+    <style>  
+        body  
+        {  
+        background-image:url("https://images.unsplash.com/photo-1548049983-5be60c9bc004?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80");  
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: 'Courier New', monospace;
+        }
+    </style>  
+    
+    <meta name="description" content="Our first page">
+    <meta name="keywords" content="html tutorial template">
+
+</head>
+
+<body>
+    <center><b><i><font face="Courier New" size="20px" color="white">barrett projects</font></i></b></center>
+
+</body>
+</html>
